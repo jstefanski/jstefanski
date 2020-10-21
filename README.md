@@ -51,3 +51,11 @@ Hello, I'm a big fan of new technologies and always looking for new knowledge. ð
   <a target="_blank"href="https://www.linkedin.com/in/rafaelstefanski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://instagram.com/rafael.jstefanski"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<h2  align="center"> ðŸ“¢ Status </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstefanski&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![JSTEFANSKI github stats](https://github-readme-stats.vercel.app/api?username=jstefanski&show_icons=true&theme=cobalt&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
