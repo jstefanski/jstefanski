@@ -14,7 +14,9 @@ Hello, I'm a big fan of new technologies and always looking for new knowledge. ð
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pl/sql%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c%20-gray?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pro*c%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pl/sql%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp;&nbsp;&nbsp;  
 </p>
 
 <h3 align="center"> Frameworks</h3>
