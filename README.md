@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center"> 👨🏼‍💻 Whoami</h2>
-Hello, I'm Rafael Jasinski Stefanski! I'm a big fan of new technologies, and always looking for new knowledge. 🖖🏼
+Hello, I'm a big fan of new technologies and always looking for new knowledge. 🖖🏼
 
 <h2 align="center"> 🔭 Knowledges </h2>
 <h3 align="center"> Programming Languages </h3>
