@@ -20,23 +20,17 @@ Hello, I'm Rafael Jasinski Stefanski! I'm a big fan of new technologies, and alw
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br />
-
 <h3 align="center"> Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-<br />
-
 <h3 align="center"> Version Control </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-<br />
 
 <h3 align="center"> Databases </h3>
 <p align="center">
@@ -45,8 +39,6 @@ Hello, I'm Rafael Jasinski Stefanski! I'm a big fan of new technologies, and alw
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
-
-<br />
 
 <h3 align="center"> ML/DL </h3>
 <p align="center">
