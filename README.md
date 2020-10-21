@@ -4,8 +4,13 @@
 </div>
 
 <h2 align="center"> 👨🏼‍💻 Whoami</h2>
-Hello, I'm a big fan of new technologies and always looking for new knowledge. 🖖🏼
-
+<p align="center">
+  <samp>Hi, I'm a big fan of new technologies and I'm always looking for new knowledge. 🖖🏼 And also, a Oracle Retail Senior Consultant, working with Retail since 2014. Currently working with the Oracle products of the MOM(Merchandise Operations Management) solution and RMS(Retail Merchandise System), ReIM(Retail Invoice Matching) and ReSA(Retail Sales Audit) modules. Graduated in Systems Development and Analysis and Master of Business Administration in Business Intelligence. IT professional with more than six years of experience in computing, having specialized knowledge of the software development lifecycle and a solid knowledge of the technologies necessary for the development and deployment of highly available and scalable.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=jstefanski"/>
+</p>
+  
 <h2 align="center"> 🔭 Knowledges </h2>
 <h3 align="center"> Programming Languages </h3>
 <p align="center">
@@ -51,11 +56,3 @@ Hello, I'm a big fan of new technologies and always looking for new knowledge. �
   <a target="_blank"href="https://www.linkedin.com/in/rafaelstefanski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://instagram.com/rafael.jstefanski"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h2  align="center"> 📊 Status </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstefanski&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![JSTEFANSKI github stats](https://github-readme-stats.vercel.app/api?username=jstefanski&show_icons=true&theme=cobalt&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
