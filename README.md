@@ -52,7 +52,7 @@ Hello, I'm a big fan of new technologies and always looking for new knowledge. �
   <a target="_blank"href="https://instagram.com/rafael.jstefanski"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2  align="center"> 📢 Status </h2>
+<h2  align="center"> 📊 Status </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstefanski&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
