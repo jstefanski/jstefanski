@@ -1,19 +1,10 @@
 <h1 align="center"> 👋🏼 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://github.com/jstefanski/jstefanski/blob/main/banner.jpg" alt="header"/>
 </div>
 
 <h2 align="center"> 👨🏼‍💻 Whoami</h2>
-Hello, ✋🏼 I'm Rafael Jasinski Stefanski!
-<br />
-I'm a big fan of new technologies, and always looking for new knowledge. 🖖🏼
-
-### **Facts about me:**
-- Coffee Lover ☕
-- Finland Lover 🇫🇮
-- Sport Club Internacional 🇵🇱
-- Rock 'n' Roll 🤘🏻
-- Guitar Player 🎸
+Hello, I'm Rafael Jasinski Stefanski! I'm a big fan of new technologies, and always looking for new knowledge. 🖖🏼
 
 <br />
 <br />
