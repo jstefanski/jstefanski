@@ -45,16 +45,6 @@
   <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center"> ⚡ Github Stats </h1>
-<p align="center">
-<table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstefanski&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jstefanski&theme=buefy"/></td>
-    </tr>   
-</table>
-</p>
-
 <h1 align="center"> 📫 Connect with me </h1>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/rafaelstefanski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
